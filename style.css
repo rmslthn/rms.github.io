@@ -14,7 +14,7 @@ body {
 .main-nav {
     float: right;
     list-style: none;
-    margin: 0 auto;
+    margin-top: -30px;
 }
 
 .main-nav li {
@@ -43,8 +43,7 @@ body {
     position: absolute;
     width: 1200px;
     margin-left: 0px;
-    margin-top: 0px;
-    
+    margin-top: 0px;    
 }
 
 
